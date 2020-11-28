@@ -47,6 +47,7 @@ public class MainActivity extends AppCompatActivity {
 
                 String name=Email.getText().toString();
                 String passwordd= password.getText().toString();
+                //hjkkhk k
 
 
                 if(name.isEmpty() || passwordd.isEmpty())
