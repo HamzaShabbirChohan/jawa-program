@@ -49,6 +49,7 @@ public class MainActivity extends AppCompatActivity {
                 String passwordd= password.getText().toString();
                 //hjkkhk k
 
+                //jhutyryryt
 
                 if(name.isEmpty() || passwordd.isEmpty())
                 {
