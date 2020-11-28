@@ -50,6 +50,7 @@ public class MainActivity extends AppCompatActivity {
                 //hjkkhk k
 
                 //jhutyryryt
+                //sdefefefef
 
                 if(name.isEmpty() || passwordd.isEmpty())
                 {
