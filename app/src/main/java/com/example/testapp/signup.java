@@ -17,6 +17,7 @@ public class signup extends AppCompatActivity {
     private EditText password;
     private Button   btn;
     private TextView infoo;
+    //sdwdwd
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
